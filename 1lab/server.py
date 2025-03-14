@@ -7,15 +7,20 @@ import psutil
 logging.basicConfig(filename='server.log', level=logging.INFO,
                     format='%(asctime)s - %(message)s')
 
+# Логируются только сообщения уровня INFO и выше.
+
 
 def get_process_info():
     """Получает информацию о всех процессах и 
        возвращает её в виде списка словарей."""
     processes = []
-    for proc in psutil.process_iter(['pid', 'name', 'status']):
+    # Итерируется по всем процессам и получает их PID, имя и статус.
+    for proc in psutil.process_iter(['pid', 'name', 'status']): 
         try:
             process_info = proc.info
             processes.append(process_info)
+        # Игнорируем процессы, которые недоступны
+        # (например, завершенные или системные).
         except (psutil.NoSuchProcess, psutil.AccessDenied,
                 psutil.ZombieProcess):
             continue
@@ -36,7 +41,8 @@ def handle_client(conn, addr):
     try:
         while True:
             try:
-                # Получаем команду от клиента
+                # Получаем команду от клиента и
+                # декодируем её из байтов в строку.
                 command = conn.recv(1024).decode('utf-8').strip()
                 if not command:
                     break
@@ -100,12 +106,17 @@ def handle_client(conn, addr):
 
 def start_server(host='127.0.0.1', port=65432):
     """Запускает сервер и ожидает подключения клиентов."""
+    # Создаем TCP-сокет.
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        # Привязываем сокет к указанному адресу и порту.
         s.bind((host, port))
+        # Начинаем прослушивание входящих соединений.
         s.listen()
         print(f"Сервер запущен на {host}:{port}. Ожидание подключений...")
         logging.info(f"Сервер запущен на {host}:{port}")
         while True:
+            # Принимаем подключение от клиента и возвращаем
+            # объект соединения и адрес клиента.
             conn, addr = s.accept()
             handle_client(conn, addr)
 
