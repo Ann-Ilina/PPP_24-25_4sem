@@ -58,7 +58,7 @@ def send_command(command):
     except Exception as e:
         print(f"Ошибка при отправке команды: {e}")
         logging.error(f"Ошибка при отправке команды: {e}")
-
+        
 
 def main():
     """Основной цикл клиента."""
