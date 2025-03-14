@@ -43,8 +43,14 @@ def send_command(command):
             print(f"Отправка команды серверу: {command}")
             s.sendall(command.encode('utf-8'))
 
-            # Получаем ответ от сервера
-            data = s.recv(4096)
+            # Получаем данные от сервера
+            data = b""  # Байтовый объект для хранения всех данных
+            while True:
+                chunk = s.recv(4096)  # Получаем кусок данных
+                if not chunk:
+                    break  # Если данных больше нет, завершаем цикл
+                data += chunk  # Добавляем кусок к общим данным
+
             if data:
                 print("Данные получены.")
                 dir_name = create_directory()

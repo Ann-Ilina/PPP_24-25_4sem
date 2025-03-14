@@ -1,0 +1,1737 @@
+[
+    {
+        "name": "System Idle Process",
+        "pid": 0,
+        "status": "running"
+    },
+    {
+        "name": "System",
+        "pid": 4,
+        "status": "running"
+    },
+    {
+        "name": "",
+        "pid": 56,
+        "status": "stopped"
+    },
+    {
+        "name": "fontdrvhost.exe",
+        "pid": 80,
+        "status": "running"
+    },
+    {
+        "name": "Registry",
+        "pid": 108,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 224,
+        "status": "running"
+    },
+    {
+        "name": "smss.exe",
+        "pid": 452,
+        "status": "running"
+    },
+    {
+        "name": "WUDFHost.exe",
+        "pid": 472,
+        "status": "running"
+    },
+    {
+        "name": "UserOOBEBroker.exe",
+        "pid": 476,
+        "status": "running"
+    },
+    {
+        "name": "csrss.exe",
+        "pid": 656,
+        "status": "running"
+    },
+    {
+        "name": "wininit.exe",
+        "pid": 772,
+        "status": "running"
+    },
+    {
+        "name": "csrss.exe",
+        "pid": 780,
+        "status": "running"
+    },
+    {
+        "name": "SynTPEnh.exe",
+        "pid": 788,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 840,
+        "status": "running"
+    },
+    {
+        "name": "services.exe",
+        "pid": 844,
+        "status": "running"
+    },
+    {
+        "name": "LsaIso.exe",
+        "pid": 852,
+        "status": "running"
+    },
+    {
+        "name": "lsass.exe",
+        "pid": 872,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 996,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 1080,
+        "status": "running"
+    },
+    {
+        "name": "winlogon.exe",
+        "pid": 1096,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1176,
+        "status": "running"
+    },
+    {
+        "name": "fontdrvhost.exe",
+        "pid": 1204,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1220,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1308,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1332,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1352,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1364,
+        "status": "running"
+    },
+    {
+        "name": "RuntimeBroker.exe",
+        "pid": 1396,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1400,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1440,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1448,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1456,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1500,
+        "status": "running"
+    },
+    {
+        "name": "steamwebhelper.exe",
+        "pid": 1520,
+        "status": "running"
+    },
+    {
+        "name": "dwm.exe",
+        "pid": 1548,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 1568,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1572,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1608,
+        "status": "running"
+    },
+    {
+        "name": "steamwebhelper.exe",
+        "pid": 1656,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 1664,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1688,
+        "status": "running"
+    },
+    {
+        "name": "Telegram.exe",
+        "pid": 1696,
+        "status": "running"
+    },
+    {
+        "name": "IntelCpHDCPSvc.exe",
+        "pid": 1756,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 1804,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1824,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1860,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1908,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 1920,
+        "status": "running"
+    },
+    {
+        "name": "IntelCpHeciSvc.exe",
+        "pid": 1988,
+        "status": "running"
+    },
+    {
+        "name": "steamwebhelper.exe",
+        "pid": 2012,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2068,
+        "status": "running"
+    },
+    {
+        "name": "SnippingTool.exe",
+        "pid": 2124,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2160,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 2168,
+        "status": "running"
+    },
+    {
+        "name": "dptf_helper.exe",
+        "pid": 2184,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2264,
+        "status": "running"
+    },
+    {
+        "name": "dllhost.exe",
+        "pid": 2288,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2348,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2404,
+        "status": "running"
+    },
+    {
+        "name": "atiesrxx.exe",
+        "pid": 2460,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2504,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2520,
+        "status": "running"
+    },
+    {
+        "name": "mintty.exe",
+        "pid": 2576,
+        "status": "running"
+    },
+    {
+        "name": "SearchApp.exe",
+        "pid": 2580,
+        "status": "stopped"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2588,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2596,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2656,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2668,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2688,
+        "status": "running"
+    },
+    {
+        "name": "RadeonSettings.exe",
+        "pid": 2712,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2740,
+        "status": "running"
+    },
+    {
+        "name": "dasHost.exe",
+        "pid": 2756,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 2812,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2856,
+        "status": "running"
+    },
+    {
+        "name": "jucheck.exe",
+        "pid": 2864,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2876,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 2888,
+        "status": "running"
+    },
+    {
+        "name": "git-bash.exe",
+        "pid": 2904,
+        "status": "running"
+    },
+    {
+        "name": "igfxCUIService.exe",
+        "pid": 2996,
+        "status": "running"
+    },
+    {
+        "name": "MemCompression",
+        "pid": 3052,
+        "status": "running"
+    },
+    {
+        "name": "RuntimeBroker.exe",
+        "pid": 3096,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3104,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3128,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3168,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3176,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3204,
+        "status": "running"
+    },
+    {
+        "name": "steamwebhelper.exe",
+        "pid": 3236,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3264,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3332,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3404,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 3436,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3508,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 3604,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3612,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3736,
+        "status": "running"
+    },
+    {
+        "name": "RtkAudioService64.exe",
+        "pid": 3748,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3868,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3876,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3884,
+        "status": "running"
+    },
+    {
+        "name": "RAVBg64.exe",
+        "pid": 3928,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 3932,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 3936,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 3964,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 4060,
+        "status": "running"
+    },
+    {
+        "name": "spoolsv.exe",
+        "pid": 4144,
+        "status": "running"
+    },
+    {
+        "name": "steamwebhelper.exe",
+        "pid": 4160,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4232,
+        "status": "running"
+    },
+    {
+        "name": "SystemSettings.exe",
+        "pid": 4244,
+        "status": "stopped"
+    },
+    {
+        "name": "AdminService.exe",
+        "pid": 4356,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4364,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4376,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4392,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4412,
+        "status": "running"
+    },
+    {
+        "name": "esif_uf.exe",
+        "pid": 4416,
+        "status": "running"
+    },
+    {
+        "name": "OneApp.IGCC.WinService.exe",
+        "pid": 4464,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4472,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4520,
+        "status": "running"
+    },
+    {
+        "name": "jhi_service.exe",
+        "pid": 4564,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 4572,
+        "status": "running"
+    },
+    {
+        "name": "MpDefenderCoreService.exe",
+        "pid": 4596,
+        "status": "running"
+    },
+    {
+        "name": "LMS.exe",
+        "pid": 4604,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4648,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4696,
+        "status": "running"
+    },
+    {
+        "name": "mysqld.exe",
+        "pid": 4708,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4736,
+        "status": "running"
+    },
+    {
+        "name": "SynTPEnhService.exe",
+        "pid": 4748,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4780,
+        "status": "running"
+    },
+    {
+        "name": "WavesSysSvc64.exe",
+        "pid": 4800,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4812,
+        "status": "running"
+    },
+    {
+        "name": "WMIRegistrationService.exe",
+        "pid": 4832,
+        "status": "running"
+    },
+    {
+        "name": "MsMpEng.exe",
+        "pid": 4844,
+        "status": "running"
+    },
+    {
+        "name": "pg_ctl.exe",
+        "pid": 4864,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4880,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 4936,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4948,
+        "status": "running"
+    },
+    {
+        "name": "SecurityHealthService.exe",
+        "pid": 4968,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 4976,
+        "status": "running"
+    },
+    {
+        "name": "wslservice.exe",
+        "pid": 5004,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 5056,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 5148,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 5332,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 5404,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 5524,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 5528,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 5548,
+        "status": "running"
+    },
+    {
+        "name": "mysqld.exe",
+        "pid": 5624,
+        "status": "running"
+    },
+    {
+        "name": "SearchIndexer.exe",
+        "pid": 5636,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 5656,
+        "status": "running"
+    },
+    {
+        "name": "pacjsworker.exe",
+        "pid": 5664,
+        "status": "running"
+    },
+    {
+        "name": "jusched.exe",
+        "pid": 5728,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 5900,
+        "status": "running"
+    },
+    {
+        "name": "StartMenuExperienceHost.exe",
+        "pid": 5936,
+        "status": "running"
+    },
+    {
+        "name": "steamwebhelper.exe",
+        "pid": 5948,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 5984,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 6008,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 6016,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 6348,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 6428,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 6480,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 6488,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 6604,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 6612,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 6620,
+        "status": "running"
+    },
+    {
+        "name": "AggregatorHost.exe",
+        "pid": 6792,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 6836,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 6844,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 6920,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 6988,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 7076,
+        "status": "running"
+    },
+    {
+        "name": "dllhost.exe",
+        "pid": 7096,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 7156,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 7192,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 7216,
+        "status": "running"
+    },
+    {
+        "name": "sihost.exe",
+        "pid": 7244,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 7356,
+        "status": "running"
+    },
+    {
+        "name": "ctfmon.exe",
+        "pid": 7520,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 7556,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 7592,
+        "status": "running"
+    },
+    {
+        "name": "SSScheduler.exe",
+        "pid": 7680,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 7740,
+        "status": "running"
+    },
+    {
+        "name": "taskhostw.exe",
+        "pid": 7756,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 7772,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 7824,
+        "status": "running"
+    },
+    {
+        "name": "NisSrv.exe",
+        "pid": 7868,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 7936,
+        "status": "running"
+    },
+    {
+        "name": "RuntimeBroker.exe",
+        "pid": 8072,
+        "status": "running"
+    },
+    {
+        "name": "igfxEM.exe",
+        "pid": 8108,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 8144,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 8216,
+        "status": "running"
+    },
+    {
+        "name": "SecurityHealthSystray.exe",
+        "pid": 8224,
+        "status": "running"
+    },
+    {
+        "name": "RtkNGUI64.exe",
+        "pid": 8260,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 8312,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 8364,
+        "status": "running"
+    },
+    {
+        "name": "explorer.exe",
+        "pid": 8568,
+        "status": "running"
+    },
+    {
+        "name": "OneDrive.exe",
+        "pid": 8632,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 8776,
+        "status": "running"
+    },
+    {
+        "name": "CNAB4RPD.EXE",
+        "pid": 8832,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 8852,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 8884,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 9284,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 9336,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 9344,
+        "status": "running"
+    },
+    {
+        "name": "RuntimeBroker.exe",
+        "pid": 9352,
+        "status": "running"
+    },
+    {
+        "name": "RuntimeBroker.exe",
+        "pid": 9364,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 9416,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 9516,
+        "status": "running"
+    },
+    {
+        "name": "ShellExperienceHost.exe",
+        "pid": 9624,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 9720,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 9748,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 9948,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 9980,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 10088,
+        "status": "running"
+    },
+    {
+        "name": "steam.exe",
+        "pid": 10184,
+        "status": "running"
+    },
+    {
+        "name": "TextInputHost.exe",
+        "pid": 10204,
+        "status": "running"
+    },
+    {
+        "name": "RAVBg64.exe",
+        "pid": 10276,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 10308,
+        "status": "running"
+    },
+    {
+        "name": "WavesSvc64.exe",
+        "pid": 10416,
+        "status": "running"
+    },
+    {
+        "name": "pt2500Csm.exe",
+        "pid": 10672,
+        "status": "running"
+    },
+    {
+        "name": "McCHSvc.exe",
+        "pid": 10824,
+        "status": "running"
+    },
+    {
+        "name": "rundll32.exe",
+        "pid": 10948,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 11080,
+        "status": "running"
+    },
+    {
+        "name": "armsvc.exe",
+        "pid": 11120,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 11164,
+        "status": "running"
+    },
+    {
+        "name": "RuntimeBroker.exe",
+        "pid": 11240,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 11336,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 11368,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 11592,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 11612,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 11696,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 11756,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 11772,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 11780,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 11804,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 11848,
+        "status": "running"
+    },
+    {
+        "name": "CompPkgSrv.exe",
+        "pid": 11852,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 11912,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 12020,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 12052,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 12076,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 12176,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 12248,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 12292,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 12356,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 12580,
+        "status": "running"
+    },
+    {
+        "name": "pgAdmin4.exe",
+        "pid": 12760,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 12856,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 13036,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 13052,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 13064,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 13076,
+        "status": "running"
+    },
+    {
+        "name": "LockApp.exe",
+        "pid": 13124,
+        "status": "stopped"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 13204,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 13264,
+        "status": "running"
+    },
+    {
+        "name": "steamwebhelper.exe",
+        "pid": 13324,
+        "status": "running"
+    },
+    {
+        "name": "taskhostw.exe",
+        "pid": 13348,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 13372,
+        "status": "running"
+    },
+    {
+        "name": "dllhost.exe",
+        "pid": 13380,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 13596,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 13600,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 13632,
+        "status": "running"
+    },
+    {
+        "name": "taskhostw.exe",
+        "pid": 13708,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 13712,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 13824,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 13896,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 13980,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 13984,
+        "status": "running"
+    },
+    {
+        "name": "MoUsoCoreWorker.exe",
+        "pid": 14012,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 14036,
+        "status": "running"
+    },
+    {
+        "name": "Video.UI.exe",
+        "pid": 14212,
+        "status": "stopped"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 14260,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 14680,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 14836,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 14960,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 15008,
+        "status": "running"
+    },
+    {
+        "name": "SynTPHelper.exe",
+        "pid": 15128,
+        "status": "running"
+    },
+    {
+        "name": "pgAdmin4.exe",
+        "pid": 15376,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 15512,
+        "status": "running"
+    },
+    {
+        "name": "WhatsApp.exe",
+        "pid": 15744,
+        "status": "stopped"
+    },
+    {
+        "name": "python.exe",
+        "pid": 15824,
+        "status": "running"
+    },
+    {
+        "name": "SystemSettingsBroker.exe",
+        "pid": 15856,
+        "status": "running"
+    },
+    {
+        "name": "steamservice.exe",
+        "pid": 15884,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 15916,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 16024,
+        "status": "running"
+    },
+    {
+        "name": "ApplicationFrameHost.exe",
+        "pid": 16092,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 16100,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 16488,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 16508,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 16544,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 16648,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 16744,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 16840,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 16912,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 17032,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 17112,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 17176,
+        "status": "running"
+    },
+    {
+        "name": "RuntimeBroker.exe",
+        "pid": 17328,
+        "status": "running"
+    },
+    {
+        "name": "TabTip.exe",
+        "pid": 17344,
+        "status": "running"
+    },
+    {
+        "name": "CodeSetup-stable-ddc367ed5c8936efe395cffeec279b04ffd7db78.tmp",
+        "pid": 17392,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 17436,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 17548,
+        "status": "running"
+    },
+    {
+        "name": "audiodg.exe",
+        "pid": 17600,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 17632,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 17680,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 17732,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 18056,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 18072,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 18112,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 18356,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 18540,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 18552,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 18876,
+        "status": "running"
+    },
+    {
+        "name": "CodeSetup-stable-ddc367ed5c8936efe395cffeec279b04ffd7db78.exe",
+        "pid": 18924,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 19008,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 19132,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 19200,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 19240,
+        "status": "running"
+    },
+    {
+        "name": "pgAdmin4.exe",
+        "pid": 19272,
+        "status": "running"
+    },
+    {
+        "name": "pgAdmin4.exe",
+        "pid": 19784,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 19820,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 19856,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 19896,
+        "status": "running"
+    },
+    {
+        "name": "chrome.exe",
+        "pid": 20392,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 20428,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 20892,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 20988,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 20996,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 21196,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 21228,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 21376,
+        "status": "running"
+    },
+    {
+        "name": "msedge.exe",
+        "pid": 21536,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 21616,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 21712,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 21796,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 21960,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 21976,
+        "status": "running"
+    },
+    {
+        "name": "python.exe",
+        "pid": 22044,
+        "status": "running"
+    },
+    {
+        "name": "bash.exe",
+        "pid": 22216,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 22260,
+        "status": "running"
+    },
+    {
+        "name": "Code.exe",
+        "pid": 22336,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 22576,
+        "status": "running"
+    },
+    {
+        "name": "svchost.exe",
+        "pid": 22668,
+        "status": "running"
+    },
+    {
+        "name": "browser.exe",
+        "pid": 22704,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 22708,
+        "status": "running"
+    },
+    {
+        "name": "conhost.exe",
+        "pid": 22876,
+        "status": "running"
+    },
+    {
+        "name": "pgAdmin4.exe",
+        "pid": 23124,
+        "status": "running"
+    },
+    {
+        "name": "postgres.exe",
+        "pid": 23128,
+        "status": "running"
+    },
+    {
+        "name": "pgAdmin4.exe",
+        "pid": 23500,
+        "status": "running"
+    }
+]

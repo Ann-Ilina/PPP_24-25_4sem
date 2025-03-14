@@ -41,8 +41,7 @@ def handle_client(conn, addr):
     try:
         while True:
             try:
-                # Получаем команду от клиента и
-                # декодируем её из байтов в строку.
+                # Получаем команду от клиента
                 command = conn.recv(1024).decode('utf-8').strip()
                 if not command:
                     break
@@ -53,9 +52,10 @@ def handle_client(conn, addr):
                     save_to_json(processes)
                     with open('processes.json', 'rb') as f:
                         file_data = f.read()
-                    conn.sendall(file_data)
+                    conn.sendall(file_data)  # Отправляем данные
                     print(f"Файл processes.json отправлен клиенту {addr}.")
                     logging.info(f"Клиенту {addr} отправлен файл processes.json")
+                    break  # Закрываем соединение после отправки данных
 
                 elif command.startswith("signal"):
                     _, pid, sig = command.split()
@@ -73,9 +73,10 @@ def handle_client(conn, addr):
                             response = f"Процесс {pid} убит."
                         else:
                             response = f"Неверный сигнал: {sig}."
-                        conn.sendall(response.encode('utf-8'))
+                        conn.sendall(response.encode('utf-8'))  # Отправляем ответ
                         print(f"Ответ отправлен клиенту {addr}: {response}")
                         logging.info(f"Клиент {addr} отправил сигнал {sig} процессу {pid}")
+                        break  # Закрываем соединение после отправки ответа
                     except psutil.NoSuchProcess:
                         response = f"Процесс {pid} не найден."
                         conn.sendall(response.encode('utf-8'))
@@ -88,6 +89,7 @@ def handle_client(conn, addr):
                         response = f"Ошибка: {e}."
                         conn.sendall(response.encode('utf-8'))
                         print(f"Ошибка при обработке запроса от {addr}: {e}")
+                        break  # Закрываем соединение при ошибке
 
             except ConnectionResetError:
                 print(f"Клиент {addr} разорвал соединение.")
@@ -99,10 +101,10 @@ def handle_client(conn, addr):
                 break
 
     finally:
-        conn.close()
+        conn.close()  # Закрываем соединение
         print(f"Клиент {addr} отключен.")
         logging.info(f"Клиент {addr} отключен")
-
+               
 
 def start_server(host='127.0.0.1', port=65432):
     """Запускает сервер и ожидает подключения клиентов."""

@@ -1,0 +1,210 @@
+[
+    {
+        "status": "running",
+        "name": "System Idle Process",
+        "pid": 0
+    },
+    {
+        "status": "running",
+        "name": "System",
+        "pid": 4
+    },
+    {
+        "status": "stopped",
+        "name": "",
+        "pid": 56
+    },
+    {
+        "status": "running",
+        "name": "fontdrvhost.exe",
+        "pid": 80
+    },
+    {
+        "status": "running",
+        "name": "Registry",
+        "pid": 108
+    },
+    {
+        "status": "running",
+        "name": "msedge.exe",
+        "pid": 224
+    },
+    {
+        "status": "running",
+        "name": "smss.exe",
+        "pid": 452
+    },
+    {
+        "status": "running",
+        "name": "WUDFHost.exe",
+        "pid": 472
+    },
+    {
+        "status": "running",
+        "name": "UserOOBEBroker.exe",
+        "pid": 476
+    },
+    {
+        "status": "running",
+        "name": "csrss.exe",
+        "pid": 656
+    },
+    {
+        "status": "running",
+        "name": "wininit.exe",
+        "pid": 772
+    },
+    {
+        "status": "running",
+        "name": "csrss.exe",
+        "pid": 780
+    },
+    {
+        "status": "running",
+        "name": "SynTPEnh.exe",
+        "pid": 788
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 840
+    },
+    {
+        "status": "running",
+        "name": "services.exe",
+        "pid": 844
+    },
+    {
+        "status": "running",
+        "name": "LsaIso.exe",
+        "pid": 852
+    },
+    {
+        "status": "running",
+        "name": "lsass.exe",
+        "pid": 872
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 996
+    },
+    {
+        "status": "running",
+        "name": "browser.exe",
+        "pid": 1080
+    },
+    {
+        "status": "running",
+        "name": "winlogon.exe",
+        "pid": 1096
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1176
+    },
+    {
+        "status": "running",
+        "name": "fontdrvhost.exe",
+        "pid": 1204
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1220
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1308
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1332
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1352
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1364
+    },
+    {
+        "status": "running",
+        "name": "RuntimeBroker.exe",
+        "pid": 1396
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1400
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1440
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1448
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1456
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1500
+    },
+    {
+        "status": "running",
+        "name": "steamwebhelper.exe",
+        "pid": 1520
+    },
+    {
+        "status": "running",
+        "name": "dwm.exe",
+        "pid": 1548
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1572
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1608
+    },
+    {
+        "status": "running",
+        "name": "steamwebhelper.exe",
+        "pid": 1656
+    },
+    {
+        "status": "running",
+        "name": "python.exe",
+        "pid": 1664
+    },
+    {
+        "status": "running",
+        "name": "svchost.exe",
+        "pid": 1688
+    },
+    {
+        "status": "running",
+        "name": "Telegram.exe",
+        "pid": 1696
+    },
+    {
+        "status": "running",
+        "name": "IntelCpHDCPSvc.exe",
+        "p
