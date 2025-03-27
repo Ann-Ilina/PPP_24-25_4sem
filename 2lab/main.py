@@ -1,8 +1,12 @@
+# main.py
+from fastapi import FastAPI
+from app.api.endpoints import router
+from app.db.db import engine
+from app.models.models import Base
 
-def main():
-    # Ваш код здесь
-    pass
+app = FastAPI()
+app.include_router(router)
 
-if __name__ == "__main__":
-    main()
-
+@app.on_event("startup")
+def startup():
+    Base.metadata.create_all(bind=engine)
