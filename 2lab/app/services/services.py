@@ -1,6 +1,6 @@
-# app/services.py
 import time
 from typing import List, Tuple
+
 
 def levenshtein_distance(s1: str, s2: str) -> int:
     if len(s1) < len(s2):
@@ -20,6 +20,7 @@ def levenshtein_distance(s1: str, s2: str) -> int:
         previous_row = current_row
     
     return previous_row[-1]
+
 
 def damerau_levenshtein_distance(s1: str, s2: str) -> int:
     if len(s1) < len(s2):
@@ -51,6 +52,7 @@ def damerau_levenshtein_distance(s1: str, s2: str) -> int:
     
     return d[(len1-1, len2-1)]
 
+
 def fuzzy_search(word: str, corpus_text: str, algorithm: str) -> List[Tuple[str, int]]:
     words = corpus_text.split()
     results = []
@@ -67,4 +69,3 @@ def fuzzy_search(word: str, corpus_text: str, algorithm: str) -> List[Tuple[str,
         results.append((corpus_word, distance))
     
     return sorted(results, key=lambda x: x[1])
-

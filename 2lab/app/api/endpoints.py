@@ -1,4 +1,3 @@
-# app/api/endpoints.py
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from ..db.db import get_db
@@ -9,15 +8,18 @@ import time
 
 router = APIRouter()
 
+
 @router.post("/upload_corpus", response_model=CorpusResponse)
 def upload_corpus(corpus: CorpusUpload, db: Session = Depends(get_db)):
     db_corpus = create_corpus(db, corpus.corpus_name, corpus.text)
     return CorpusResponse(corpus_id=db_corpus.id, message="Corpus uploaded successfully")
 
+
 @router.get("/corpuses")
 def list_corpuses(db: Session = Depends(get_db)):
     corpuses = get_all_corpuses(db)
     return {"corpuses": [CorpusItem(id=c.id, name=c.name) for c in corpuses]}
+
 
 @router.post("/search_algorithm", response_model=SearchResponse)
 def search_algorithm(search: SearchRequest, db: Session = Depends(get_db)):
