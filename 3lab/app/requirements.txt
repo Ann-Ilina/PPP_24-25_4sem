@@ -5,7 +5,7 @@ passlib[bcrypt]
 python-jose[cryptography]
 pydantic
 websockets
-celery==5.3.6  # Более старая версия для стабильности
+celery==5.3.6  
 billiard==4.2.0
 aiohttp
 pydantic-settings
